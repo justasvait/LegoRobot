@@ -11,4 +11,4 @@ At the start the robot must be placed in front of the black line facing it at 90
  # What I learned
  - Object-Oriented Programming with Java
  - Accessing sensors and actuator of hardware
- - How to follow coloured line with a robot
+ - Robot navigation in a maze
